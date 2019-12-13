@@ -23,5 +23,5 @@ Welcome to my page where you can find information about me and my work.
 
 ### Contact
 
-LinKedin [Link Text](https://www.linkedin.com/in/danny-lau-a99791199/)
+<img scr="https://fontawesome.com/icons/gamepad?style=solid" [Link Text](https://www.linkedin.com/in/danny-lau-a99791199/)
 
