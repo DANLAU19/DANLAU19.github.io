@@ -23,4 +23,4 @@ Welcome to my page where you can find information about me.
 
 
 ### Support or Contact
-www.google.com
+LinKedin https://www.linkedin.com/in/danny-lau-a99791199/
