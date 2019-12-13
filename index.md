@@ -26,4 +26,4 @@ Welcome to my page where you can find information about me and my work, I am cur
 
 <img width="95" alt="chrome_IIsepH7hkB" src="https://user-images.githubusercontent.com/57402182/70791436-08007d00-1d8f-11ea-8ade-8757ba303233.png">
 
- <!-- This is commented out. -->[Link Text](https://twitter.com/dannyla62778988/)
+ <!-- [Link Text] -->[Link Text](https://twitter.com/dannyla62778988/)
