@@ -23,5 +23,5 @@ Welcome to my page where you can find information about me.
 
 ### Support or Contact
 
-[Link Text](https://www.linkedin.com/in/danny-lau-a99791199/)
+             [Link Text](https://www.linkedin.com/in/danny-lau-a99791199/)
 
