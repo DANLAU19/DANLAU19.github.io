@@ -1,5 +1,4 @@
-## Welcome ![gamepad icon](https://user-images.githubusercontent.com/57402182/70790030-1ef1a000-1d8c-11ea-8943-6e23f6db4c89.png)
-
+## Welcome !
 Welcome to my page where you can find information about me and my work, I am currently a first year student studying Computer Games Development at University.
 
 
@@ -21,6 +20,6 @@ Welcome to my page where you can find information about me and my work, I am cur
 
 ### Contact
 
-### LinKedIn ![link](https://user-images.githubusercontent.com/57402182/70790574-472dce80-1d8d-11ea-8b05-56e455ea635d.png)
+### LinKedIn <img width="93" alt="chrome_Vmqgf3tRCU" src="https://user-images.githubusercontent.com/57402182/70790961-fe2a4a00-1d8d-11ea-97b9-6a403cadef4a.png">
 [Link Text](https://www.linkedin.com/in/danny-lau-a99791199/)
  ### Twitter  [Link Text](https://twitter.com/dannyla62778988/)
