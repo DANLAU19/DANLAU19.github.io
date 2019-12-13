@@ -7,8 +7,7 @@ Welcome to my page where you can find information about me.
 
 
 
-# Header 1
-## Header 2
+
 ### Header 3
 
 
