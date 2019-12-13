@@ -1,3 +1,5 @@
+![consoles](https://user-images.githubusercontent.com/57402182/70792612-89f1a580-1d91-11ea-8358-f574b3cf26bd.jpg)
+
 ## Welcome !
 Welcome to my page where you can find information about me and my work, I am currently a first year student studying Computer Games Development at University.
 
