@@ -1,6 +1,7 @@
 ## Welcome to this page
 
-Hello.
+Hello
+Welcome to my page where you can find information about me.
 
 ### Markdown
 
