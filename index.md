@@ -24,4 +24,4 @@ Welcome to my page where you can find information about me and my work, I am cur
 ### Contact
 
 LinKedIn [Link Text](https://www.linkedin.com/in/danny-lau-a99791199/)
-
+Twitter  [Link Text](https://twitter.com/dannyla62778988)
