@@ -1,7 +1,7 @@
 ## Welcome 
 
 Hello
-Welcome to my page where you can find information about me and my work.
+Welcome to my page where you can find information about me and my work, I am currently a first year student studying Computer Games Development at University.
 
 
 
