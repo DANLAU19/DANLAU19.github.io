@@ -1,7 +1,7 @@
 ## Welcome 
 
 Hello
-Welcome to my page where you can find information about me.
+Welcome to my page where you can find information about me and my work.
 
 
 
